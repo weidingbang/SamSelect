@@ -1,0 +1,651 @@
+RanGenData/motif/motif_t_1000_l_15_d_5_q_300_g_high
+file: RanGenData/data/data_t_1000_l_15_d_5_q_300_g_high
+total sequence: 1000
+true motif instance num 300
+counting corrent num: 298
+counting wrong num 137
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_15_d_5_q_300_g_low
+file: RanGenData/data/data_t_1000_l_15_d_5_q_300_g_low
+total sequence: 1000
+true motif instance num 300
+counting corrent num: 132
+counting wrong num 120
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_15_d_5_q_300_g_media
+file: RanGenData/data/data_t_1000_l_15_d_5_q_300_g_media
+total sequence: 1000
+true motif instance num 300
+counting corrent num: 270
+counting wrong num 140
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_15_d_5_q_500_g_high
+file: RanGenData/data/data_t_1000_l_15_d_5_q_500_g_high
+total sequence: 1000
+true motif instance num 500
+counting corrent num: 490
+counting wrong num 24
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_15_d_5_q_500_g_low
+file: RanGenData/data/data_t_1000_l_15_d_5_q_500_g_low
+total sequence: 1000
+true motif instance num 500
+counting corrent num: 158
+counting wrong num 4
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_15_d_5_q_500_g_media
+file: RanGenData/data/data_t_1000_l_15_d_5_q_500_g_media
+total sequence: 1000
+true motif instance num 500
+counting corrent num: 433
+counting wrong num 20
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_15_d_5_q_800_g_high
+file: RanGenData/data/data_t_1000_l_15_d_5_q_800_g_high
+total sequence: 1000
+true motif instance num 800
+counting corrent num: 787
+counting wrong num 6
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_15_d_5_q_800_g_low
+file: RanGenData/data/data_t_1000_l_15_d_5_q_800_g_low
+total sequence: 1000
+true motif instance num 800
+counting corrent num: 270
+counting wrong num 3
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_15_d_5_q_800_g_media
+file: RanGenData/data/data_t_1000_l_15_d_5_q_800_g_media
+total sequence: 1000
+true motif instance num 800
+counting corrent num: 680
+counting wrong num 6
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_21_d_8_q_300_g_high
+file: RanGenData/data/data_t_1000_l_21_d_8_q_300_g_high
+total sequence: 1000
+true motif instance num 300
+counting corrent num: 300
+counting wrong num 154
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_21_d_8_q_300_g_low
+file: RanGenData/data/data_t_1000_l_21_d_8_q_300_g_low
+total sequence: 1000
+true motif instance num 300
+counting corrent num: 155
+counting wrong num 128
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_21_d_8_q_300_g_media
+file: RanGenData/data/data_t_1000_l_21_d_8_q_300_g_media
+total sequence: 1000
+true motif instance num 300
+counting corrent num: 270
+counting wrong num 153
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_21_d_8_q_500_g_high
+file: RanGenData/data/data_t_1000_l_21_d_8_q_500_g_high
+total sequence: 1000
+true motif instance num 500
+counting corrent num: 499
+counting wrong num 36
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_21_d_8_q_500_g_low
+file: RanGenData/data/data_t_1000_l_21_d_8_q_500_g_low
+total sequence: 1000
+true motif instance num 500
+counting corrent num: 176
+counting wrong num 3
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_21_d_8_q_500_g_media
+file: RanGenData/data/data_t_1000_l_21_d_8_q_500_g_media
+total sequence: 1000
+true motif instance num 500
+counting corrent num: 451
+counting wrong num 26
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_21_d_8_q_800_g_high
+file: RanGenData/data/data_t_1000_l_21_d_8_q_800_g_high
+total sequence: 1000
+true motif instance num 800
+counting corrent num: 798
+counting wrong num 13
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_21_d_8_q_800_g_low
+file: RanGenData/data/data_t_1000_l_21_d_8_q_800_g_low
+total sequence: 1000
+true motif instance num 800
+counting corrent num: 230
+counting wrong num 1
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_21_d_8_q_800_g_media
+file: RanGenData/data/data_t_1000_l_21_d_8_q_800_g_media
+total sequence: 1000
+true motif instance num 800
+counting corrent num: 726
+counting wrong num 8
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_9_d_2_q_300_g_high
+file: RanGenData/data/data_t_1000_l_9_d_2_q_300_g_high
+total sequence: 1000
+true motif instance num 300
+counting corrent num: 280
+counting wrong num 128
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_9_d_2_q_300_g_low
+file: RanGenData/data/data_t_1000_l_9_d_2_q_300_g_low
+total sequence: 1000
+true motif instance num 300
+counting corrent num: 90
+counting wrong num 117
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_9_d_2_q_300_g_media
+file: RanGenData/data/data_t_1000_l_9_d_2_q_300_g_media
+total sequence: 1000
+true motif instance num 300
+counting corrent num: 171
+counting wrong num 123
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_9_d_2_q_500_g_high
+file: RanGenData/data/data_t_1000_l_9_d_2_q_500_g_high
+total sequence: 1000
+true motif instance num 500
+counting corrent num: 450
+counting wrong num 16
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_9_d_2_q_500_g_low
+file: RanGenData/data/data_t_1000_l_9_d_2_q_500_g_low
+total sequence: 1000
+true motif instance num 500
+counting corrent num: 77
+counting wrong num 4
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_9_d_2_q_500_g_media
+file: RanGenData/data/data_t_1000_l_9_d_2_q_500_g_media
+total sequence: 1000
+true motif instance num 500
+counting corrent num: 286
+counting wrong num 8
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_9_d_2_q_800_g_high
+file: RanGenData/data/data_t_1000_l_9_d_2_q_800_g_high
+total sequence: 1000
+true motif instance num 800
+counting corrent num: 751
+counting wrong num 3
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_9_d_2_q_800_g_low
+file: RanGenData/data/data_t_1000_l_9_d_2_q_800_g_low
+total sequence: 1000
+true motif instance num 800
+counting corrent num: 70
+counting wrong num 0
+build time is 5s
+
+RanGenData/motif/motif_t_1000_l_9_d_2_q_800_g_media
+file: RanGenData/data/data_t_1000_l_9_d_2_q_800_g_media
+total sequence: 1000
+true motif instance num 800
+counting corrent num: 463
+counting wrong num 4
+build time is 5s
+
+RanGenData/motif/motif_t_2000_l_15_d_5_q_1000_g_high
+file: RanGenData/data/data_t_2000_l_15_d_5_q_1000_g_high
+total sequence: 2000
+true motif instance num 1000
+counting corrent num: 984
+counting wrong num 50
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_15_d_5_q_1000_g_low
+file: RanGenData/data/data_t_2000_l_15_d_5_q_1000_g_low
+total sequence: 2000
+true motif instance num 1000
+counting corrent num: 332
+counting wrong num 14
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_15_d_5_q_1000_g_media
+file: RanGenData/data/data_t_2000_l_15_d_5_q_1000_g_media
+total sequence: 2000
+true motif instance num 1000
+counting corrent num: 836
+counting wrong num 34
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_15_d_5_q_1600_g_high
+file: RanGenData/data/data_t_2000_l_15_d_5_q_1600_g_high
+total sequence: 2000
+true motif instance num 1600
+counting corrent num: 1574
+counting wrong num 13
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_15_d_5_q_1600_g_low
+file: RanGenData/data/data_t_2000_l_15_d_5_q_1600_g_low
+total sequence: 2000
+true motif instance num 1600
+counting corrent num: 483
+counting wrong num 3
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_15_d_5_q_1600_g_media
+file: RanGenData/data/data_t_2000_l_15_d_5_q_1600_g_media
+total sequence: 2000
+true motif instance num 1600
+counting corrent num: 1368
+counting wrong num 10
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_15_d_5_q_600_g_high
+file: RanGenData/data/data_t_2000_l_15_d_5_q_600_g_high
+total sequence: 2000
+true motif instance num 600
+counting corrent num: 590
+counting wrong num 83
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_15_d_5_q_600_g_low
+file: RanGenData/data/data_t_2000_l_15_d_5_q_600_g_low
+total sequence: 2000
+true motif instance num 600
+counting corrent num: 224
+counting wrong num 15
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_15_d_5_q_600_g_media
+file: RanGenData/data/data_t_2000_l_15_d_5_q_600_g_media
+total sequence: 2000
+true motif instance num 600
+counting corrent num: 523
+counting wrong num 54
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_21_d_8_q_1000_g_high
+file: RanGenData/data/data_t_2000_l_21_d_8_q_1000_g_high
+total sequence: 2000
+true motif instance num 1000
+counting corrent num: 998
+counting wrong num 77
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_21_d_8_q_1000_g_low
+file: RanGenData/data/data_t_2000_l_21_d_8_q_1000_g_low
+total sequence: 2000
+true motif instance num 1000
+counting corrent num: 303
+counting wrong num 14
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_21_d_8_q_1000_g_media
+file: RanGenData/data/data_t_2000_l_21_d_8_q_1000_g_media
+total sequence: 2000
+true motif instance num 1000
+counting corrent num: 914
+counting wrong num 57
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_21_d_8_q_1600_g_high
+file: RanGenData/data/data_t_2000_l_21_d_8_q_1600_g_high
+total sequence: 2000
+true motif instance num 1600
+counting corrent num: 1592
+counting wrong num 20
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_21_d_8_q_1600_g_low
+file: RanGenData/data/data_t_2000_l_21_d_8_q_1600_g_low
+total sequence: 2000
+true motif instance num 1600
+counting corrent num: 387
+counting wrong num 3
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_21_d_8_q_1600_g_media
+file: RanGenData/data/data_t_2000_l_21_d_8_q_1600_g_media
+total sequence: 2000
+true motif instance num 1600
+counting corrent num: 1473
+counting wrong num 16
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_21_d_8_q_600_g_high
+file: RanGenData/data/data_t_2000_l_21_d_8_q_600_g_high
+total sequence: 2000
+true motif instance num 600
+counting corrent num: 598
+counting wrong num 112
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_21_d_8_q_600_g_low
+file: RanGenData/data/data_t_2000_l_21_d_8_q_600_g_low
+total sequence: 2000
+true motif instance num 600
+counting corrent num: 192
+counting wrong num 27
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_21_d_8_q_600_g_media
+file: RanGenData/data/data_t_2000_l_21_d_8_q_600_g_media
+total sequence: 2000
+true motif instance num 600
+counting corrent num: 543
+counting wrong num 92
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_9_d_2_q_1000_g_high
+file: RanGenData/data/data_t_2000_l_9_d_2_q_1000_g_high
+total sequence: 2000
+true motif instance num 1000
+counting corrent num: 933
+counting wrong num 42
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_9_d_2_q_1000_g_low
+file: RanGenData/data/data_t_2000_l_9_d_2_q_1000_g_low
+total sequence: 2000
+true motif instance num 1000
+counting corrent num: 73
+counting wrong num 2
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_9_d_2_q_1000_g_media
+file: RanGenData/data/data_t_2000_l_9_d_2_q_1000_g_media
+total sequence: 2000
+true motif instance num 1000
+counting corrent num: 586
+counting wrong num 19
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_9_d_2_q_1600_g_high
+file: RanGenData/data/data_t_2000_l_9_d_2_q_1600_g_high
+total sequence: 2000
+true motif instance num 1600
+counting corrent num: 1508
+counting wrong num 14
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_9_d_2_q_1600_g_low
+file: RanGenData/data/data_t_2000_l_9_d_2_q_1600_g_low
+total sequence: 2000
+true motif instance num 1600
+counting corrent num: 123
+counting wrong num 1
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_9_d_2_q_1600_g_media
+file: RanGenData/data/data_t_2000_l_9_d_2_q_1600_g_media
+total sequence: 2000
+true motif instance num 1600
+counting corrent num: 885
+counting wrong num 5
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_9_d_2_q_600_g_high
+file: RanGenData/data/data_t_2000_l_9_d_2_q_600_g_high
+total sequence: 2000
+true motif instance num 600
+counting corrent num: 560
+counting wrong num 62
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_9_d_2_q_600_g_low
+file: RanGenData/data/data_t_2000_l_9_d_2_q_600_g_low
+total sequence: 2000
+true motif instance num 600
+counting corrent num: 82
+counting wrong num 11
+build time is 6s
+
+RanGenData/motif/motif_t_2000_l_9_d_2_q_600_g_media
+file: RanGenData/data/data_t_2000_l_9_d_2_q_600_g_media
+total sequence: 2000
+true motif instance num 600
+counting corrent num: 357
+counting wrong num 24
+build time is 6s
+
+RanGenData/motif/motif_t_600_l_15_d_5_q_180_g_high
+file: RanGenData/data/data_t_600_l_15_d_5_q_180_g_high
+total sequence: 600
+true motif instance num 180
+counting corrent num: 177
+counting wrong num 148
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_15_d_5_q_180_g_low
+file: RanGenData/data/data_t_600_l_15_d_5_q_180_g_low
+total sequence: 600
+true motif instance num 180
+counting corrent num: 109
+counting wrong num 133
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_15_d_5_q_180_g_media
+file: RanGenData/data/data_t_600_l_15_d_5_q_180_g_media
+total sequence: 600
+true motif instance num 180
+counting corrent num: 165
+counting wrong num 143
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_15_d_5_q_300_g_high
+file: RanGenData/data/data_t_600_l_15_d_5_q_300_g_high
+total sequence: 600
+true motif instance num 300
+counting corrent num: 297
+counting wrong num 13
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_15_d_5_q_300_g_low
+file: RanGenData/data/data_t_600_l_15_d_5_q_300_g_low
+total sequence: 600
+true motif instance num 300
+counting corrent num: 93
+counting wrong num 8
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_15_d_5_q_300_g_media
+file: RanGenData/data/data_t_600_l_15_d_5_q_300_g_media
+total sequence: 600
+true motif instance num 300
+counting corrent num: 270
+counting wrong num 24
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_15_d_5_q_480_g_high
+file: RanGenData/data/data_t_600_l_15_d_5_q_480_g_high
+total sequence: 600
+true motif instance num 480
+counting corrent num: 476
+counting wrong num 6
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_15_d_5_q_480_g_low
+file: RanGenData/data/data_t_600_l_15_d_5_q_480_g_low
+total sequence: 600
+true motif instance num 480
+counting corrent num: 126
+counting wrong num 2
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_15_d_5_q_480_g_media
+file: RanGenData/data/data_t_600_l_15_d_5_q_480_g_media
+total sequence: 600
+true motif instance num 480
+counting corrent num: 405
+counting wrong num 8
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_21_d_8_q_180_g_high
+file: RanGenData/data/data_t_600_l_21_d_8_q_180_g_high
+total sequence: 600
+true motif instance num 180
+counting corrent num: 180
+counting wrong num 150
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_21_d_8_q_180_g_low
+file: RanGenData/data/data_t_600_l_21_d_8_q_180_g_low
+total sequence: 600
+true motif instance num 180
+counting corrent num: 103
+counting wrong num 140
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_21_d_8_q_180_g_media
+file: RanGenData/data/data_t_600_l_21_d_8_q_180_g_media
+total sequence: 600
+true motif instance num 180
+counting corrent num: 167
+counting wrong num 144
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_21_d_8_q_300_g_high
+file: RanGenData/data/data_t_600_l_21_d_8_q_300_g_high
+total sequence: 600
+true motif instance num 300
+counting corrent num: 299
+counting wrong num 32
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_21_d_8_q_300_g_low
+file: RanGenData/data/data_t_600_l_21_d_8_q_300_g_low
+total sequence: 600
+true motif instance num 300
+counting corrent num: 120
+counting wrong num 11
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_21_d_8_q_300_g_media
+file: RanGenData/data/data_t_600_l_21_d_8_q_300_g_media
+total sequence: 600
+true motif instance num 300
+counting corrent num: 260
+counting wrong num 21
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_21_d_8_q_480_g_high
+file: RanGenData/data/data_t_600_l_21_d_8_q_480_g_high
+total sequence: 600
+true motif instance num 480
+counting corrent num: 476
+counting wrong num 5
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_21_d_8_q_480_g_low
+file: RanGenData/data/data_t_600_l_21_d_8_q_480_g_low
+total sequence: 600
+true motif instance num 480
+counting corrent num: 132
+counting wrong num 1
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_21_d_8_q_480_g_media
+file: RanGenData/data/data_t_600_l_21_d_8_q_480_g_media
+total sequence: 600
+true motif instance num 480
+counting corrent num: 431
+counting wrong num 12
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_9_d_2_q_180_g_high
+file: RanGenData/data/data_t_600_l_9_d_2_q_180_g_high
+total sequence: 600
+true motif instance num 180
+counting corrent num: 169
+counting wrong num 133
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_9_d_2_q_180_g_low
+file: RanGenData/data/data_t_600_l_9_d_2_q_180_g_low
+total sequence: 600
+true motif instance num 180
+counting corrent num: 84
+counting wrong num 143
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_9_d_2_q_180_g_media
+file: RanGenData/data/data_t_600_l_9_d_2_q_180_g_media
+total sequence: 600
+true motif instance num 180
+counting corrent num: 132
+counting wrong num 130
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_9_d_2_q_300_g_high
+file: RanGenData/data/data_t_600_l_9_d_2_q_300_g_high
+total sequence: 600
+true motif instance num 300
+counting corrent num: 266
+counting wrong num 17
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_9_d_2_q_300_g_low
+file: RanGenData/data/data_t_600_l_9_d_2_q_300_g_low
+total sequence: 600
+true motif instance num 300
+counting corrent num: 71
+counting wrong num 13
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_9_d_2_q_300_g_media
+file: RanGenData/data/data_t_600_l_9_d_2_q_300_g_media
+total sequence: 600
+true motif instance num 300
+counting corrent num: 199
+counting wrong num 9
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_9_d_2_q_480_g_high
+file: RanGenData/data/data_t_600_l_9_d_2_q_480_g_high
+total sequence: 600
+true motif instance num 480
+counting corrent num: 449
+counting wrong num 3
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_9_d_2_q_480_g_low
+file: RanGenData/data/data_t_600_l_9_d_2_q_480_g_low
+total sequence: 600
+true motif instance num 480
+counting corrent num: 56
+counting wrong num 1
+build time is 5s
+
+RanGenData/motif/motif_t_600_l_9_d_2_q_480_g_media
+file: RanGenData/data/data_t_600_l_9_d_2_q_480_g_media
+total sequence: 600
+true motif instance num 480
+counting corrent num: 300
+counting wrong num 2
+build time is 5s
+
+
+
+1 0 398 69 529 529 329 529 593 7 608 482 13 12 529 608 406 373 529 529 529 22 21 468 529 473 529 87 529 529 178 32 345 214 608 529 608 335 607 355 8 529 42 529 378 378 529 48 47 319 277 529 319 602 608 56 55 56 59 58 374 594 399 207 174 195 270 187 319 378 71 70 356 529 436 98 529 359 452 472 190 481 278 529 529 608 25 103 87 69 209 529 569 94 93 529 569 569 75 329 468 319 468 87 103 7 319 529 529 23 550 529 309 357 529 116 115 118 117 309 75 472 282 512 372 529 126 529 436 529 131 130 550 345 345 145 137 136 136 172 548 440 529 143 32 595 608 276 296 529 419 282 336 529 155 154 598 249 159 158 309 374 116 278 145 440 529 529 342 342 529 550 197 529 64 356 529 337 206 584 436 608 183 182 270 87 87 529 263 75 529 529 406 210 550 65 182 172 75 529 329 529 202 529 62 282 178 208 207 32 211 210 569 440 529 507 436 529 219 218 410 309 36 529 440 608 529 415 19 529 321 554 282 24 321 499 529 529 529 240 239 373 243 242 245 244 608 282 563 529 593 220 103 254 253 256 255 529 529 260 259 593 529 550 265 264 264 309 529 494 184 560 569 406 529 87 359 50 163 282 281 280 206 593 529 286 285 321 436 290 289 292 291 608 529 336 529 529 253 253 359 320 529 319 304 306 305 529 569 374 529 529 605 312 319 166 24 255 359 68 301 46 7 529 329 529 598 184 529 99 529 331 228 75 529 529 529 529 529 355 608 32 168 342 75 32 32 348 347 529 550 349 529 289 548 529 35 550 529 335 529 312 312 529 116 529 529 258 84 529 371 370 608 241 309 25 11 569 69 378 529 529 81 529 81 569 387 386 7 7 607 310 529 608 507 507 529 550 2 529 401 400 335 460 529 311 217 25 529 550 220 529 220 359 32 529 607 418 417 529 529 422 421 11 440 482 529 529 529 569 529 432 431 431 529 321 529 311 452 607 589 529 443 442 529 116 529 336 529 450 449 24 597 321 455 454 457 456 550 175 403 175 529 309 24 529 341 529 23 529 81 220 308 25 475 474 176 75 479 478 478 81 529 529 550 8 529 472 529 529 491 490 490 529 593 452 529 498 497 529 501 500 500 500 409 529 111 609 509 508 108 529 513 512 550 35 517 516 529 497 521 520 529 529 335 529 527 526 87 569 569 116 529 529 535 534 176 490 569 540 539 539 12 576 507 507 319 529 529 335 482 87 103 349 359 181 319 187 342 342 529 525 75 93 529 32 32 529 550 529 355 239 239 409 187 483 569 419 190 117 517 356 529 41 529 436 529 583 529 440 75 529 347 529 355 145 32 452 156 529 172 172 53 529 75 312 436 356 529 507 87 529

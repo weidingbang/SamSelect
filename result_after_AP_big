@@ -1,0 +1,243 @@
+file: RanGenDataBig/data/data_t_3000_l_15_d_5_q_1500_g_media
+High frequency substring number after AP: 1595
+total sequence: 3000
+true motif instance num 1500
+counting corrent num: 858
+counting wrong num 18
+rate 0.979452
+build time is 13s
+
+file: RanGenDataBig/data/data_t_3000_l_15_d_5_q_2400_g_media
+High frequency substring number after AP: 2538
+total sequence: 3000
+true motif instance num 2400
+counting corrent num: 1467
+counting wrong num 3
+rate 0.997959
+build time is 22s
+
+file: RanGenDataBig/data/data_t_3000_l_15_d_5_q_900_g_media
+High frequency substring number after AP: 1008
+total sequence: 3000
+true motif instance num 900
+counting corrent num: 510
+counting wrong num 37
+rate 0.932358
+build time is 9s
+
+file: RanGenDataBig/data/data_t_3000_l_21_d_8_q_1500_g_media
+High frequency substring number after AP: 2085
+total sequence: 3000
+true motif instance num 1500
+counting corrent num: 793
+counting wrong num 37
+rate 0.955422
+build time is 31s
+
+file: RanGenDataBig/data/data_t_3000_l_21_d_8_q_2400_g_media
+High frequency substring number after AP: 3120
+total sequence: 3000
+true motif instance num 2400
+counting corrent num: 1289
+counting wrong num 15
+rate 0.988497
+build time is 61s
+
+file: RanGenDataBig/data/data_t_3000_l_21_d_8_q_900_g_media
+High frequency substring number after AP: 1288
+total sequence: 3000
+true motif instance num 900
+counting corrent num: 434
+counting wrong num 36
+rate 0.923404
+build time is 16s
+
+file: RanGenDataBig/data/data_t_3000_l_9_d_2_q_1500_g_media
+High frequency substring number after AP: 883
+total sequence: 3000
+true motif instance num 1500
+counting corrent num: 768
+counting wrong num 18
+rate 0.977099
+build time is 8s
+
+file: RanGenDataBig/data/data_t_3000_l_9_d_2_q_2400_g_media
+High frequency substring number after AP: 1383
+total sequence: 3000
+true motif instance num 2400
+counting corrent num: 1239
+counting wrong num 9
+rate 0.992788
+build time is 10s
+
+file: RanGenDataBig/data/data_t_3000_l_9_d_2_q_900_g_media
+High frequency substring number after AP: 630
+total sequence: 3000
+true motif instance num 900
+counting corrent num: 517
+counting wrong num 25
+rate 0.953875
+build time is 7s
+
+file: RanGenDataBig/data/data_t_5000_l_15_d_5_q_1500_g_media
+High frequency substring number after AP: 1686
+total sequence: 5000
+true motif instance num 1500
+counting corrent num: 856
+counting wrong num 45
+rate 0.950055
+build time is 15s
+
+file: RanGenDataBig/data/data_t_5000_l_15_d_5_q_2500_g_media
+High frequency substring number after AP: 2692
+total sequence: 5000
+true motif instance num 2500
+counting corrent num: 1513
+counting wrong num 42
+rate 0.97299
+build time is 26s
+
+file: RanGenDataBig/data/data_t_5000_l_15_d_5_q_4000_g_media
+High frequency substring number after AP: 4138
+total sequence: 5000
+true motif instance num 4000
+counting corrent num: 2358
+counting wrong num 15
+rate 0.993679
+build time is 53s
+
+file: RanGenDataBig/data/data_t_5000_l_21_d_8_q_1500_g_media
+High frequency substring number after AP: 2154
+total sequence: 5000
+true motif instance num 1500
+counting corrent num: 795
+counting wrong num 81
+rate 0.907534
+build time is 35s
+
+file: RanGenDataBig/data/data_t_5000_l_21_d_8_q_2500_g_media
+High frequency substring number after AP: 3298
+total sequence: 5000
+true motif instance num 2500
+counting corrent num: 1346
+counting wrong num 67
+rate 0.952583
+build time is 70s
+
+file: RanGenDataBig/data/data_t_5000_l_21_d_8_q_4000_g_media
+High frequency substring number after AP: 5116
+total sequence: 5000
+true motif instance num 4000
+counting corrent num: 2247
+counting wrong num 19
+rate 0.991615
+build time is 152s
+
+file: RanGenDataBig/data/data_t_5000_l_9_d_2_q_1500_g_media
+High frequency substring number after AP: 859
+total sequence: 5000
+true motif instance num 1500
+counting corrent num: 734
+counting wrong num 44
+rate 0.943445
+build time is 9s
+
+file: RanGenDataBig/data/data_t_5000_l_9_d_2_q_2500_g_media
+High frequency substring number after AP: 1369
+total sequence: 5000
+true motif instance num 2500
+counting corrent num: 1230
+counting wrong num 30
+rate 0.97619
+build time is 11s
+
+file: RanGenDataBig/data/data_t_5000_l_9_d_2_q_4000_g_media
+High frequency substring number after AP: 1835
+total sequence: 5000
+true motif instance num 4000
+counting corrent num: 1738
+counting wrong num 13
+rate 0.992576
+build time is 14s
+
+file: RanGenDataBig/data/data_t_8000_l_15_d_5_q_2400_g_media
+High frequency substring number after AP: 2706
+total sequence: 8000
+true motif instance num 2400
+counting corrent num: 1451
+counting wrong num 68
+rate 0.955234
+build time is 29s
+
+file: RanGenDataBig/data/data_t_8000_l_15_d_5_q_4000_g_media
+High frequency substring number after AP: 4251
+total sequence: 8000
+true motif instance num 4000
+counting corrent num: 2432
+counting wrong num 43
+rate 0.982626
+build time is 60s
+
+file: RanGenDataBig/data/data_t_8000_l_15_d_5_q_6400_g_media
+High frequency substring number after AP: 6847
+total sequence: 8000
+true motif instance num 6400
+counting corrent num: 3929
+counting wrong num 18
+rate 0.99544
+build time is 149s
+
+file: RanGenDataBig/data/data_t_8000_l_21_d_8_q_2400_g_media
+High frequency substring number after AP: 3375
+total sequence: 8000
+true motif instance num 2400
+counting corrent num: 1325
+counting wrong num 131
+rate 0.910027
+build time is 77s
+
+file: RanGenDataBig/data/data_t_8000_l_21_d_8_q_4000_g_media
+High frequency substring number after AP: 5252
+total sequence: 8000
+true motif instance num 4000
+counting corrent num: 2211
+counting wrong num 96
+rate 0.958387
+build time is 165s
+
+file: RanGenDataBig/data/data_t_8000_l_21_d_8_q_6400_g_media
+High frequency substring number after AP: 8128
+total sequence: 8000
+true motif instance num 6400
+counting corrent num: 3394
+counting wrong num 42
+rate 0.987776
+build time is 398s
+
+file: RanGenDataBig/data/data_t_8000_l_9_d_2_q_2400_g_media
+High frequency substring number after AP: 1244
+total sequence: 8000
+true motif instance num 2400
+counting corrent num: 1110
+counting wrong num 54
+rate 0.953608
+build time is 13s
+
+file: RanGenDataBig/data/data_t_8000_l_9_d_2_q_4000_g_media
+High frequency substring number after AP: 1721
+total sequence: 8000
+true motif instance num 4000
+counting corrent num: 1657
+counting wrong num 27
+rate 0.983967
+build time is 16s
+
+file: RanGenDataBig/data/data_t_8000_l_9_d_2_q_6400_g_media
+High frequency substring number after AP: 2520
+total sequence: 8000
+true motif instance num 6400
+counting corrent num: 2446
+counting wrong num 11
+rate 0.995523
+build time is 23s
+
